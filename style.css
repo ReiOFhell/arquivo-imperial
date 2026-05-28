@@ -1,0 +1,30 @@
+body{
+    background: #0a0a0a;
+    color: white;
+    font-family: Arial;
+    margin: 0;
+}
+
+.container{
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+h1{
+    color: #b8860b;
+    font-size: 50px;
+}
+
+.subtitulo{
+    color: #999;
+    margin-bottom: 40px;
+}
+
+.card{
+    background: #151515;
+    border: 1px solid #333;
+    padding: 20px;
+    border-radius: 10px;
+}
